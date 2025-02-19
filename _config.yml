@@ -3,9 +3,11 @@ description: Hi! Welcome to my homepage.
 author: Jiang Zeyu
 avatar: /photo.jpg
 email: zjiang739@gmail.com
+subscribe: false
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
