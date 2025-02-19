@@ -1,0 +1,23 @@
+title: Jiang Zeyu's Personal Homepage
+description: Nice to meet you.
+author: Jiang Zeyu
+avatar: /photo.jpg
+email: zjiang739@gmail.com
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+paginate: 10
+
+social:
+  name: Jiang Zeyu
+  links:
+    - https://scholar.google.com/citations?user=i3Lr8_8AAAAJ&hl=zh-CN
+    - https://github.com/the-masses
+    - https://www.linkedin.com/in/%E6%B3%BD%E5%AE%87-%E6%B1%9F-9b3885286/
+
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+
+lang: en
