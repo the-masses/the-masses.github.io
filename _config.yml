@@ -6,7 +6,6 @@ email: zjiang739@gmail.com
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
