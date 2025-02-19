@@ -5,7 +5,10 @@ avatar: /photo.jpg
 email: zjiang739@gmail.com
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
