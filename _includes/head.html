@@ -6,6 +6,8 @@
 
 {% feed_meta %}
 
+<link rel="icon" href="{{ "/favicon.ico" | relative_url }}" type="image/x-icon">
+
 {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
 {% endif %}
