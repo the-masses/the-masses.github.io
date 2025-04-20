@@ -3,7 +3,7 @@ url: "https://the-masses.github.io"
 baseurl: "/"
 
 markdown: kramdown
-ins_logo: "./img/bits-logo.png"
+# ins_logo: "./img/bits-logo.png"
 
 tracking_id: #
 
