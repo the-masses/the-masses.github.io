@@ -6,13 +6,11 @@ layout: default
 
 <img class="profile-picture" src="./img/profile_pic.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am an upcoming PhD student in Intelligent Transportation (INTR) at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Changhao Chen](https://changhao-chen.github.io/). Previously, I obtained my master's degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by [Prof. Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). During my master's degree, I also joined [Prof. Lin Shao's group](https://linsats.github.io/) in the School of Computing at National University of Singapore as a research intern. Piror to that, I received my bachelor's degree from the School of Automation at Beijing Institute of Technology.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
 
 ## Publications
 
