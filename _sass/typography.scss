@@ -40,21 +40,23 @@
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: -10px 0 0 15px;
+        margin: 0 0 0 15px;
         float: right;
-        // border-radius: 100%;
+        display: block;
         p & {
             padding: 0;
             margin: 0;
         }
         @media (max-width: $small-width) {
             img {
-                margin-top: -5px;
+                margin-top: 0;
             }
         }
     }
     img {
         text-align: center;
         width: 100%;
+        max-width: 100%;
+        height: auto;
     }
 }
