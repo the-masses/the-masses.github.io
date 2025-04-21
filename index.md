@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Jiang Zeyu's Homepage
 ---
 
 ## About Me

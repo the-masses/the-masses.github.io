@@ -5,6 +5,10 @@ baseurl: "/"
 markdown: kramdown
 # ins_logo: "./img/bits-logo.png"
 
+# Add favicon configuration
+favicon: true
+favicon_location: "./img/favicon.ico"
+
 tracking_id: #
 
 footer: yes
