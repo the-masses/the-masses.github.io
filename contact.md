@@ -5,9 +5,7 @@ is_contact: true
 
 ## Contact Information
 
-* Email: [Here](zjiang739@gmail.com)
-
-* Wechat: [Here](wewontstopu)
+* Email: zjiang739@gmail.com
 
 ---
 
