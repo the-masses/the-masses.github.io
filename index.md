@@ -19,21 +19,21 @@ I am committed to joining the development of embodied AI into the physical world
 
 1. Lixin Xu<sup>*</sup>, Zixuan Liu<sup>*</sup>, Zhewei Gui, Jingxiang Guo, **Zeyu Jiang**, Zhixuan Xu, Chongkai Gao, Lin Shao. ["DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments"](https://nus-lins-lab.github.io/dexsingweb/). Under Review.
 2. Kuan Xu<sup>*</sup>, **Zeyu Jiang<sup>*</sup>**, Haozhi Cao, Shenghai Yuan, Lihua Xie. ["An Efficient Scene Coordinate Encoding and Relocalization Method"](https://github.com/sair-lab/SeqACE). Under Review.
-3. **Zeyu Jiang**, Qing Wang. "The Design and Implementation of the Vision-based Water Surface Garbage Cleaning Vehicle". Unmanned Systems.
+3. **Zeyu Jiang**, Qing Wang. "The Design and Implementation of the Vision-based Water Surface Garbage Cleaning Vehicle". Unmanned Systems 2024.
 4. **Zeyu Jiang**, Qing Wang, Haoran Wang. "Leader-follower Based Formation of Unmanned Boats for Surface Waste Collection". CCC 2024
 5. Shiqi Duan, **Zeyu Jiang<sup>*</sup>**, Yucheng Ren, Huanxia Wei. Coordination of multi-robot systems. ICEDCS 2022.
 
 ## Educations
 
-- 2025.09 - 
+- 2025.09 -        , Hong Kong University of Science and Technology, Guangzhou, China.
 - 2023.08 - 2025.02, Nanyang Technological University, Singapore.
 - 2019.09 - 2023.06, Beijing Institute of Technology, Beijing, China.
 
 ## Working Experiences
 
--
--
--
-- 
+- 2025.05 - 2025.08, [PEAK Lab](https://changhao-chen.github.io/), Research Assitant.
+- 2025.01 - 2025.04, [LinS Lab](https://linsats.github.io/), Research Intern.
+- 2022.10 - 2023.03, Kyland Technology, Hardware Development Engineer (Intern).
+- 2022.06 - 2022.08, Servotronix, Technical Support Engineer (Intern).
 
 
