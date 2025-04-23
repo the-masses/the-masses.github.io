@@ -24,5 +24,5 @@ nav:
    link: "/"
 #  - name: "Resume"
 #    link: "resume.pdf"
-#  - name: "Contact"
-#    link: "contact"
+ - name: "Contact"
+   link: "contact"
