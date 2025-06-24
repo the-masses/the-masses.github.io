@@ -21,11 +21,12 @@ I am committed to joining the development of embodied AI into the physical world
 
 *Equal Contribution or Corresponding
 
-1. Lixin Xu<sup>*</sup>, Zixuan Liu<sup>*</sup>, Zhewei Gui, Jingxiang Guo, **Zeyu Jiang**, Zhixuan Xu, Chongkai Gao, Lin Shao. ["DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments"](https://nus-lins-lab.github.io/dexsingweb/). Under Review.
-2. Kuan Xu<sup>*</sup>, **Zeyu Jiang<sup>*</sup>**, Haozhi Cao, Shenghai Yuan, Lihua Xie. ["An Efficient Scene Coordinate Encoding and Relocalization Method"](https://github.com/sair-lab/SeqACE). Under Review.
-3. **Zeyu Jiang**, Qing Wang. "The Design and Implementation of the Vision-based Water Surface Garbage Cleaning Vehicle". Unmanned Systems 2024.
-4. **Zeyu Jiang**, Qing Wang, Haoran Wang. "Leader-follower Based Formation of Unmanned Boats for Surface Waste Collection". CCC 2024
-5. Shiqi Duan, **Zeyu Jiang<sup>*</sup>**, Yucheng Ren, Huanxia Wei. Coordination of multi-robot systems. ICEDCS 2022.
+1. Chongkai Gao, Zixuan Liu, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, Yudi Lin, Zhirui Fang, **Zeyu Jiang**, Lin Shao.["VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models"](https://nus-lins-lab.github.io/vlaos/). Under Review.
+2. Lixin Xu<sup>*</sup>, Zixuan Liu<sup>*</sup>, Zhewei Gui, Jingxiang Guo, **Zeyu Jiang**, Zhixuan Xu, Chongkai Gao, Lin Shao. ["DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments"](https://nus-lins-lab.github.io/dexsingweb/). Under Review.
+3. Kuan Xu<sup>*</sup>, **Zeyu Jiang<sup>*</sup>**, Haozhi Cao, Shenghai Yuan, Lihua Xie. ["An Efficient Scene Coordinate Encoding and Relocalization Method"](https://github.com/sair-lab/SeqACE). Under Review.
+4. **Zeyu Jiang**, Qing Wang. "The Design and Implementation of the Vision-based Water Surface Garbage Cleaning Vehicle". Unmanned Systems 2024.
+5. **Zeyu Jiang**, Qing Wang, Haoran Wang. "Leader-follower Based Formation of Unmanned Boats for Surface Waste Collection". CCC 2024
+6. Shiqi Duan, **Zeyu Jiang<sup>*</sup>**, Yucheng Ren, Huanxia Wei. Coordination of multi-robot systems. ICEDCS 2022.
 
 ---
 
