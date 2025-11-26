@@ -22,14 +22,15 @@ I am committed to joining the development of embodied AI into the physical world
 *Equal Contribution or Corresponding
 
 1. **Zeyu Jiang**, Kuan Xu, Changhao Chen. "LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments". Under Review.
-2. Lingjie Zhang, **Zeyu Jiang**, Changhao Chen. "SaferPath: Hierarchical Visual Navigation with Learned Guidance and Safety-Constrained Control". Under Review.
-3. Chenyang Li, **Zeyu Jiang**, Changhao Chen. "AdvNav: Behavior-Guided Adversarial Attacks on Black-Box Vision-Language Navigation". Under Review.
-4. Lixin Xu<sup>*</sup>, Zixuan Liu<sup>*</sup>, Zhewei Gui, Jingxiang Guo, **Zeyu Jiang**, Tongzhou Zhang, Zhixuan Xu, Chongkai Gao, Lin Shao. ["DDexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments"](https://nus-lins-lab.github.io/dexsingweb/). IEEE RA-L 2025.
-5. Chongkai Gao, Zixuan Liu, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, Yudi Lin, Zhirui Fang, **Zeyu Jiang**, Lin Shao.["VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models"](https://nus-lins-lab.github.io/vlaos/). NeurIPS 2025.
-6. Kuan Xu<sup>*</sup>, **Zeyu Jiang<sup>*</sup>**, Haozhi Cao, Shenghai Yuan, Lihua Xie. ["An Efficient Scene Coordinate Encoding and Relocalization Method"](https://github.com/sair-lab/SeqACE). IEEE RA-L 2025.
-7. **Zeyu Jiang**, Qing Wang. "The Design and Implementation of the Vision-based Water Surface Garbage Cleaning Vehicle". Unmanned Systems 2024.
-8. **Zeyu Jiang**, Qing Wang, Haoran Wang. "Leader-follower Based Formation of Unmanned Boats for Surface Waste Collection". CCC 2024
-9. Shiqi Duan, **Zeyu Jiang<sup>*</sup>**, Yucheng Ren, Huanxia Wei. "Coordination of multi-robot systems". ICEDCS 2022.
+2. Changqing Zhou, Yueru Luo, Han Zhang, **Zeyu Jiang**, Changhao Chen. "Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes". Under Review.
+3. Lingjie Zhang, **Zeyu Jiang**, Changhao Chen. "SaferPath: Hierarchical Visual Navigation with Learned Guidance and Safety-Constrained Control". Under Review.
+4. Chenyang Li, **Zeyu Jiang**, Changhao Chen. "AdvNav: Behavior-Guided Adversarial Attacks on Black-Box Vision-Language Navigation". Under Review.
+5. Lixin Xu<sup>*</sup>, Zixuan Liu<sup>*</sup>, Zhewei Gui, Jingxiang Guo, **Zeyu Jiang**, Tongzhou Zhang, Zhixuan Xu, Chongkai Gao, Lin Shao. ["DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments"](https://nus-lins-lab.github.io/dexsingweb/). IEEE RA-L 2025.
+6. Chongkai Gao, Zixuan Liu, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, Yudi Lin, Zhirui Fang, **Zeyu Jiang**, Lin Shao.["VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models"](https://nus-lins-lab.github.io/vlaos/). NeurIPS 2025.
+7. Kuan Xu<sup>*</sup>, **Zeyu Jiang<sup>*</sup>**, Haozhi Cao, Shenghai Yuan, Lihua Xie. ["An Efficient Scene Coordinate Encoding and Relocalization Method"](https://github.com/sair-lab/SeqACE). IEEE RA-L 2025.
+8. **Zeyu Jiang**, Qing Wang. "The Design and Implementation of the Vision-based Water Surface Garbage Cleaning Vehicle". Unmanned Systems 2024.
+9. **Zeyu Jiang**, Qing Wang, Haoran Wang. "Leader-follower Based Formation of Unmanned Boats for Surface Waste Collection". CCC 2024
+10. Shiqi Duan, **Zeyu Jiang<sup>*</sup>**, Yucheng Ren, Huanxia Wei. "Coordination of multi-robot systems". ICEDCS 2022.
 
 ---
 
